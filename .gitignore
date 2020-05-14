@@ -1,0 +1,3 @@
+# Project exclude paths
+/configuration_reader/target/
+/ui_ebay_tests/target/
